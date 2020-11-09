@@ -81,7 +81,7 @@ public class Main {
         }
     }
 
-    private static void gameOver() throws IOException {
+    private static void gameOver() {
         System.out.println("Game over!");
         System.exit(0);
     }
